@@ -35,6 +35,6 @@ Glossary:
 
 References:
 (she/her), Hannah Fleishman, et al. “An Intro to Git and Github for Beginners (Tutorial).” HubSpot Careers, product.hubspot.com/blog/git-and-github-tutorial-for-beginners. 
-Silva, J. (2020, March 31). Learning git: What is a merge conflict? Retrieved February 16, 2021, from https://blog.axosoft.com/learn-git-merge-conflict/
-Atlassian. (n.d.). Git terminology GLOSSARY: ATLASSIAN git tutorial. Retrieved February 16, 2021, from https://www.atlassian.com/git/glossary/terminology
-Basic writing and formatting syntax. (n.d.). Retrieved February 16, 2021, from https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-text
+Silva, J. (2020, March 31). Learning git: What is a merge conflict? https://blog.axosoft.com/learn-git-merge-conflict/
+Atlassian. (n.d.). Git terminology GLOSSARY: ATLASSIAN git tutorial. https://www.atlassian.com/git/glossary/terminology
+Basic writing and formatting syntax. (n.d.). https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-text
